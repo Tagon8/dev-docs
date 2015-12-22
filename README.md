@@ -1,3 +1,3 @@
 # Tagon8 dev-docs
 
-See me on [wiki](URL_to_wiki)
+See me on [wiki](/wiki)
